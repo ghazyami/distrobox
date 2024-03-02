@@ -17,27 +17,5 @@ distrobox generate-entry [environment name]
 ```
 
 ## Environments
+- [Java Development](./java-dev)
 
-### java-dev.ini
-- Base
-  - openSUSE Tumbleweed
-- Apps
-  - IntelliJ IDEA Ultimate
-  - Apache NetBeans
-- SDKMAN
-  - Java
-  - Maven
-  - Maven Daemon
-  - Quarkus CLI
-  - JBang
-- Packages
-  - git
-  - tmux
-  - vim
-  - nano
-  - htop
-  - cnf
-  - fzf
-  - fish
-  - aria2
-  - Kubernetes client

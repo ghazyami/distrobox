@@ -1,0 +1,33 @@
+# Java Development Environment
+
+- Base
+    - openSUSE Tumbleweed
+- Apps
+    - IntelliJ IDEA Ultimate
+    - Apache NetBeans
+- SDKMAN
+    - Java
+    - Maven
+    - Maven Daemon
+    - Quarkus CLI
+    - JBang
+- Development packages
+  - git
+  - gitk
+  - git-credential-libsecret
+  - helm
+  - kubernetes-client
+- Base packages
+    - aria2
+    - bat
+    - btop
+    - cnf
+    - dust
+    - eza
+    - fish
+    - fzf
+    - nano
+    - powertop
+    - tealdeer
+    - vim
+    - zellij

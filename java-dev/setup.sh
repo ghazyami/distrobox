@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# tldr page cache
+tldr --update
+
 # SDKMAN
 echo '### Installing SDKMAN ###'
 curl -s "https://get.sdkman.io" | bash
