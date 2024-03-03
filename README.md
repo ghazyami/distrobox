@@ -3,7 +3,8 @@
 ## Usage
 - Create environment (container)
 ```bash
-distrobox assemble create --file [environment name].ini
+cd [environment name]
+distrobox assemble create
 ```
 
 - Create environment menu entry

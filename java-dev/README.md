@@ -1,16 +1,16 @@
 # Java Development Environment
 
 - Base
-    - openSUSE Tumbleweed
+  - openSUSE Tumbleweed
 - Apps
-    - IntelliJ IDEA Ultimate
-    - Apache NetBeans
+  - IntelliJ IDEA Ultimate
+  - Apache NetBeans
 - SDKMAN
-    - Java
-    - Maven
-    - Maven Daemon
-    - Quarkus CLI
-    - JBang
+  - Java
+  - Maven
+  - Maven Daemon
+  - Quarkus CLI
+  - JBang
 - Development packages
   - git
   - gitk
@@ -18,16 +18,16 @@
   - helm
   - kubernetes-client
 - Base packages
-    - aria2
-    - bat
-    - btop
-    - cnf
-    - dust
-    - eza
-    - fish
-    - fzf
-    - nano
-    - powertop
-    - tealdeer
-    - vim
-    - zellij
+  - aria2
+  - bat
+  - btop
+  - cnf
+  - dust
+  - eza
+  - fish
+  - fzf
+  - nano
+  - powertop
+  - tealdeer
+  - vim
+  - zellij
