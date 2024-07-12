@@ -26,7 +26,7 @@ sdk install jbang
 FONT_ARCHIVE="JetBrainsMono.tar.xz"
 FONT_LINK="https://github.com/ryanoasis/nerd-fonts/releases/latest/download/JetBrainsMono.tar.xz"
 download-if-missing "$FONT_ARCHIVE" "$FONT_LINK"
-tar -xf $HOME/Download/$FONT_ARCHIVE -C $HOME/.local/share/fonts
+tar -xf $HOME/Downloads/$FONT_ARCHIVE -C $HOME/.local/share/fonts
 fc-cache -fv
 
 ######################################################################
@@ -35,7 +35,7 @@ fc-cache -fv
 tldr --update
 
 # Oh-my-fish
-curl https://raw.githubusercontent.com/oh-my-fish/oh-my-fish/master/bin/install | fish
+curl https://raw.githubusercontent.com/oh-my-fish/oh-my-fish/master/bin/install | fish --init-command 'set argv --noninteractive'
 # bobthefish theme for fish shell
 fish -c "omf install bobthefish"
 fish -c "set -g theme_nerd_fonts yes"
