@@ -2,9 +2,6 @@
 
 - Base
   - openSUSE Tumbleweed
-- Apps
-  - IntelliJ IDEA Ultimate
-  - Apache NetBeans
 - SDKMAN
   - Java
   - Maven

@@ -12,6 +12,11 @@ distrobox assemble create
 distrobox generate-entry [environment name]
 ```
 
+- Enter enironment from start menu or by running
+```bash
+distrobox enter java-dev
+```
+
 - Apps will be under
 ```bash
 ~/.local/bin
