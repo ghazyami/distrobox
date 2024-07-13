@@ -22,6 +22,12 @@ distrobox enter java-dev
 ~/.local/bin
 ```
 
+- Optionally update font cache on host
+```bash
+fc-cache -rfv
+```
+
+
 ## Environments
 - [Java Development Environment](./java-dev)
 
