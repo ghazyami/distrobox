@@ -17,11 +17,11 @@ distrobox generate-entry [environment name]
 distrobox enter java-dev
 ```
 
-- Apps will be under
+- Find exported binaries at
 ```bash
 ~/.local/bin
 ```
 
 ## Environments
-- [Java Development](./java-dev)
+- [Java Development Environment](./java-dev)
 
