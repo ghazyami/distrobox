@@ -28,3 +28,4 @@
   - tealdeer
   - vim
   - zellij
+  - yazi
