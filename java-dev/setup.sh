@@ -63,6 +63,9 @@ else
   pretty-print "Skip installing $FONT_PREFIX: already present at ~/.local/share/fonts"
 fi
 
+# update font cache on host
+distrobox-host-exec fc-cache -vrf
+
 ######################################################################
 
 # tldr page cache
