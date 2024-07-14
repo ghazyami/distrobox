@@ -95,8 +95,4 @@ pretty-print 'Setting up aliases'
 echo 'll -> eza --header --long --git --icons'
 fish -c "alias --save ll='eza --header --long --git --icons'"
 
-# set fish as default shell
-pretty-print "Setting fish as default shell for user $USER"
-sudo chsh -s /usr/bin/fish $USER
-
 ######################################################################
