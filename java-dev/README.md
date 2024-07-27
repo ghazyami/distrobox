@@ -12,6 +12,7 @@
   - git
   - gitk
   - git-credential-libsecret
+  - lazygit
   - helm
   - kubernetes-client
 - Base packages
