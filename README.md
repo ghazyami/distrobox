@@ -7,11 +7,6 @@ cd [environment name]
 distrobox assemble create
 ```
 
-- Create environment menu entry
-```bash
-distrobox generate-entry [environment name]
-```
-
 - Enter enironment from start menu or by running
 ```bash
 distrobox enter java-dev

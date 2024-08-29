@@ -24,8 +24,8 @@
   - eza
   - fish
   - fzf
+  - jq
   - nano
-  - powertop
   - tealdeer
   - vim
   - zellij
