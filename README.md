@@ -9,17 +9,12 @@ distrobox assemble create
 
 - Enter enironment from start menu or by running
 ```bash
-distrobox enter java-dev
+distrobox enter [environment name]
 ```
 
 - Find exported binaries at
 ```bash
 ~/.local/bin
-```
-
-- Optionally update font cache on host
-```bash
-fc-cache -rfv
 ```
 
 
