@@ -87,7 +87,7 @@ fish -c "curl -sL https://raw.githubusercontent.com/jorgebucaran/fisher/main/fun
 
 # sdkman-for-fish
 pretty-print 'Installing sdkman-for-fish'
-fish -c "fisher install reitzig/sdkman-for-fish@v2.0.0"
+fish -c "fisher install reitzig/sdkman-for-fish@v2.1.0"
 
 # aliases
 pretty-print 'Setting up aliases'
