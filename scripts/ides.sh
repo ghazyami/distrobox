@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# IDEs
+######################################################################
+
 # APPSs
 APP_DIR="$HOME/.local/lib"
 BIN_DIR="$HOME/.local/bin"
@@ -29,3 +32,5 @@ if [ ! -d "$NETBEANS_DIR" ]; then
   mkdir -p "$BIN_DIR"
   ln -sf "$NETBEANS_DIR/bin/netbeans" "$BIN_DIR/netbeans"
 fi
+
+######################################################################
