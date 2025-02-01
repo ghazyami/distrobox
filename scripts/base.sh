@@ -22,6 +22,6 @@ function download-if-missing() {
 
 ######################################################################
 
-pretty-print 'Running as' "$(whoami)"
+pretty-print "Running as $(whoami)"
 
 ######################################################################
