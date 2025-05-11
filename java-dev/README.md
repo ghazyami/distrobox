@@ -18,9 +18,11 @@
 - Base packages
   - aria2
   - bat
+  - bind-utils
   - btop
   - cnf
   - dust
+  - dysk
   - eza
   - fish
   - fzf
